@@ -11,7 +11,3 @@
 ## 广东建设职业技术学院 <a href="#gjxy" id="gjxy"></a>
 
 * [学院相关](gjxy/untitled.md)
-
-***
-
-* [收差价内容](shou-cha-jia-nei-rong.md)
